@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todolist-react-context-local-storage/static/css/main.ab994532.chunk.css",
+    "main.js": "/todolist-react-context-local-storage/static/js/main.a0477626.chunk.js",
+    "main.js.map": "/todolist-react-context-local-storage/static/js/main.a0477626.chunk.js.map",
+    "runtime-main.js": "/todolist-react-context-local-storage/static/js/runtime-main.1edca479.js",
+    "runtime-main.js.map": "/todolist-react-context-local-storage/static/js/runtime-main.1edca479.js.map",
+    "static/js/2.e22e2b5f.chunk.js": "/todolist-react-context-local-storage/static/js/2.e22e2b5f.chunk.js",
+    "static/js/2.e22e2b5f.chunk.js.map": "/todolist-react-context-local-storage/static/js/2.e22e2b5f.chunk.js.map",
+    "static/js/3.f2c4565b.chunk.js": "/todolist-react-context-local-storage/static/js/3.f2c4565b.chunk.js",
+    "static/js/3.f2c4565b.chunk.js.map": "/todolist-react-context-local-storage/static/js/3.f2c4565b.chunk.js.map",
+    "index.html": "/todolist-react-context-local-storage/index.html",
+    "static/css/main.ab994532.chunk.css.map": "/todolist-react-context-local-storage/static/css/main.ab994532.chunk.css.map",
+    "static/js/2.e22e2b5f.chunk.js.LICENSE.txt": "/todolist-react-context-local-storage/static/js/2.e22e2b5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1edca479.js",
+    "static/js/2.e22e2b5f.chunk.js",
+    "static/css/main.ab994532.chunk.css",
+    "static/js/main.a0477626.chunk.js"
+  ]
+}
